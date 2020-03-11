@@ -1,4 +1,4 @@
-var a = 50;
+var a = 40;
 var c;
 
 function setup() {
