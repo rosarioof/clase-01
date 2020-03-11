@@ -1,9 +1,8 @@
 var a = 50;
-var b = 80;
-var c = b - a;
+var c;
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(windowWidht, windowHeight);
 }
 
 function draw() {
